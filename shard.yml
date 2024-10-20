@@ -2,12 +2,12 @@ name: file-maid
 version: 0.1.0
 
 authors:
-  - nika380 <nikanatroshvili7@gmail.com>
+  - frfhrts <nikanatroshvili7@gmail.com>
 
 targets:
   file-maid:
     main: src/file-maid.cr
 
-crystal: '>= 1.13.3'
+crystal: ">= 1.13.3"
 
 license: MIT
